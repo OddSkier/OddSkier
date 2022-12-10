@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, Python, and CSS**. I have very little skill with these languages, but Python is my strongest language.
 
-- 📫 You can reach me at **oddskier@gmail.com**, however, I am not very active
+- 📫 You can reach me at **oddskier@gmail.com**, however, I am not very active.
 </p>
 
 <h3 align="left">My Languages and Tools:</h3>
