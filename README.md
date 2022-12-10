@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oddskier&label=Profile%20views&color=0e75b6&style=flat" alt="oddskier" /> </p>
 
-- 🔭 I’m currently working on [Blooket Hacks](https://github.com/OddSkier/BlooketPlus). This is a project where I am creating hacks for the popular game Blooket.
+- 🔭 I’m currently working on [Blooket Hacks](https://github.com/OddSkier/Blooket-Hacks). This is a project where I am creating hacks for the popular game Blooket.
 
 - 🌱 I’m currently learning **HTML, Python, and CSS**. I have very little skill with these languages, but Python is my strongest language.
 
