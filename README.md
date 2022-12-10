@@ -1,6 +1,6 @@
 <h3 align="center">Just a person that likes to ski, run, and code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oddskier&label=Profile%20views&color=0e75b6&style=flat" alt="oddskier" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oddskier&label=Profile%20views&color=0e75b6&style=flat" alt="oddskier" /> </p>
 
 - 🔭 I’m currently working on [Blooket Hacks](https://github.com/OddSkier/Blooket-Hacks). I am creating hacks for the popular game Blooket.
 
