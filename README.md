@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **HTML, Python, and CSS**.
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://github.com/OddSkier/Portfolio)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://github.com/OddSkier/Portfolio).
 
-- 📫 How to reach me **oddskier@gmail.com**
+- 📫 You can reach me at **oddskier@gmail.com**
 
 
 </p>
