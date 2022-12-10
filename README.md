@@ -1,4 +1,4 @@
-<h3 align="center">Just a person that likes to ski, run, and code. I am very new to coding, and am starting to learn JavaScript, HTML, and Python.</h3>
+<h3 align="center">Just a person that likes to ski, run, and code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oddskier&label=Profile%20views&color=0e75b6&style=flat" alt="oddskier" /> </p>
 
