@@ -1,5 +1,5 @@
 <h3 align="center">Just a person that likes to ski, run, and code.</h3>
-<span style="color: green"> Some green text </span>
+<p color="green">hi</p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Certified-Developer-red" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oddskier&label=Profile%20views&color=0e75b6&style=flat" alt="oddskier" /> 
