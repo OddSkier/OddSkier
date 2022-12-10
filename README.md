@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Blooket Hacks](https://github.com/OddSkier/BlooketPlus)
 
-- 🌱 I’m currently learning **HTML, Python, and CSS**
+- 🌱 I’m currently learning **HTML, Python, and CSS**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/OddSkier/Portfolio](https://github.com/OddSkier/Portfolio)
 
