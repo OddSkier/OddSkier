@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://github.com/OddSkier/Portfolio).
 
-- 📫 You can reach me at **oddskier@gmail.com**
+- 📫 You can reach me at **oddskier@gmail.com**.
 
 
 </p>
